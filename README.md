@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/LokeshKotagiri/LokeshKotagiri/one.svg" alt="Kotagiri Lokesh" />
+  <img src="https://raw.githubusercontent.com/LokeshKotagiri/LokeshKotagiri/main/one.svg?sanitize=true" alt="Kotagiri Lokesh">
 </h1>
 
 <p align="center">
